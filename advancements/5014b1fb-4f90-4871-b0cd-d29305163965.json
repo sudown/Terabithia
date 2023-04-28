@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-04-28 20:08:57 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2023-04-22 13:28:10 -0300"
@@ -371,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2023-04-28 20:26:46 -0300"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2023-04-21 10:17:00 -0300"
@@ -487,14 +499,19 @@
       "shrubland": "2023-04-21 17:01:45 -0300",
       "bayou_mangrove": "2023-04-27 15:58:31 -0300",
       "scrubland": "2023-04-27 15:45:10 -0300",
+      "alps_foothills": "2023-04-28 20:43:20 -0300",
+      "shroomy_wetland": "2023-04-28 20:42:24 -0300",
+      "wetland_forest": "2023-04-28 20:42:37 -0300",
       "redwood_forest_edge": "2023-04-21 12:05:37 -0300",
       "bayou": "2023-04-21 11:39:13 -0300",
       "marsh": "2023-04-21 12:51:43 -0300",
       "tundra_basin": "2023-04-21 15:46:12 -0300",
       "grove_clearing": "2023-04-21 20:25:03 -0300",
+      "flower_meadow": "2023-04-28 20:25:43 -0300",
       "cold_desert": "2023-04-21 15:46:52 -0300",
       "wooded_scrubland": "2023-04-27 15:51:58 -0300",
       "crystalline_chasm": "2023-04-21 12:10:39 -0300",
+      "tundra_bog": "2023-04-28 20:43:21 -0300",
       "orchard": "2023-04-21 12:03:54 -0300",
       "snowy_maple_forest": "2023-04-21 15:41:38 -0300",
       "coniferous_forest": "2023-04-21 10:16:02 -0300",
@@ -504,11 +521,13 @@
       "dry_boneyard": "2023-04-21 18:03:58 -0300",
       "redwood_forest": "2023-04-21 14:12:01 -0300",
       "coniferous_lakes": "2023-04-21 10:36:26 -0300",
+      "seasonal_orchard": "2023-04-27 18:13:05 -0300",
       "seasonal_forest": "2023-04-21 16:49:02 -0300",
       "grove_lakes": "2023-04-21 20:25:04 -0300",
       "dense_woodland": "2023-04-21 14:14:19 -0300",
       "mystic_plains": "2023-04-22 14:38:50 -0300",
       "dead_forest": "2023-04-21 18:37:44 -0300",
+      "meadow": "2023-04-28 20:25:49 -0300",
       "golden_prairie": "2023-04-27 15:41:16 -0300",
       "shrubland_hills": "2023-04-21 17:02:30 -0300",
       "burnt_forest": "2023-04-21 18:39:24 -0300",
@@ -616,6 +635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-04-28 20:08:57 -0300"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_trapdoor": {
     "criteria": {
       "has_planks": "2023-04-21 10:18:36 -0300"
@@ -668,6 +693,7 @@
     "criteria": {
       "minecraft:skeleton": "2023-04-21 10:31:01 -0300",
       "minecraft:hoglin": "2023-04-21 12:13:30 -0300",
+      "minecraft:vindicator": "2023-04-28 20:34:41 -0300",
       "minecraft:spider": "2023-04-21 10:25:47 -0300",
       "minecraft:creeper": "2023-04-21 10:34:03 -0300",
       "minecraft:zombified_piglin": "2023-04-21 19:05:16 -0300",
@@ -744,6 +770,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2023-04-21 12:08:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-04-28 20:08:57 -0300"
     },
     "done": true
   },
@@ -840,6 +872,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2023-04-21 13:51:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-04-28 20:08:57 -0300"
     },
     "done": true
   },
@@ -948,6 +986,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2023-04-21 15:51:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2023-04-28 20:26:46 -0300"
     },
     "done": true
   },
@@ -1068,6 +1112,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2023-04-22 14:46:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-04-28 20:08:57 -0300"
     },
     "done": true
   },
@@ -1223,14 +1273,17 @@
       "minecraft:snowy_tundra": "2023-04-21 17:23:52 -0300",
       "minecraft:taiga_hills": "2023-04-21 16:36:57 -0300",
       "minecraft:desert": "2023-04-21 18:41:09 -0300",
+      "minecraft:frozen_river": "2023-04-28 20:08:01 -0300",
       "minecraft:jungle": "2023-04-27 15:22:32 -0300",
       "minecraft:birch_forest": "2023-04-21 18:07:41 -0300",
       "minecraft:jungle_hills": "2023-04-27 15:55:59 -0300",
       "minecraft:snowy_beach": "2023-04-21 15:48:16 -0300",
       "minecraft:warm_ocean": "2023-04-22 14:48:16 -0300",
+      "minecraft:deep_lukewarm_ocean": "2023-04-28 20:40:10 -0300",
       "minecraft:beach": "2023-04-21 14:17:38 -0300",
       "minecraft:river": "2023-04-21 10:17:03 -0300",
       "minecraft:lukewarm_ocean": "2023-04-21 14:17:43 -0300",
+      "minecraft:snowy_taiga": "2023-04-27 18:14:23 -0300",
       "minecraft:birch_forest_hills": "2023-04-22 14:06:33 -0300",
       "minecraft:wooded_mountains": "2023-04-21 11:30:04 -0300",
       "minecraft:wooded_hills": "2023-04-21 12:56:49 -0300",
@@ -1251,6 +1304,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2023-04-21 18:54:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2023-04-28 20:09:34 -0300"
     },
     "done": true
   },
@@ -1682,6 +1741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-04-28 20:08:57 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-21 18:10:14 -0300"
@@ -2049,6 +2114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-04-28 20:08:57 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2023-04-21 11:12:13 -0300"
@@ -2337,6 +2408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-04-28 20:08:57 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_pink_dye": "2023-04-21 21:08:26 -0300"
@@ -2346,6 +2423,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2023-04-23 09:08:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2023-04-27 18:11:45 -0300"
     },
     "done": true
   },
@@ -2388,6 +2471,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2023-04-21 13:55:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-04-28 20:08:57 -0300"
     },
     "done": true
   },
@@ -2607,6 +2696,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2023-04-28 20:17:35 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2023-04-21 11:23:31 -0300"
@@ -2709,6 +2804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-04-28 20:08:57 -0300"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "gravel_beach": "2023-04-21 10:14:10 -0300"
@@ -2802,6 +2903,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_pink_dye": "2023-04-21 21:08:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-04-28 20:08:57 -0300"
     },
     "done": true
   },
@@ -2981,7 +3088,9 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/white.png": "2023-04-21 16:56:18 -0300"
+      "textures/entity/cat/white.png": "2023-04-21 16:56:18 -0300",
+      "textures/entity/cat/ragdoll.png": "2023-04-28 20:05:11 -0300",
+      "textures/entity/cat/persian.png": "2023-04-28 20:00:58 -0300"
     },
     "done": false
   },
@@ -2994,6 +3103,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2023-04-22 14:18:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-04-28 20:08:57 -0300"
     },
     "done": true
   },
@@ -3018,6 +3133,12 @@
   "biomesoplenty:recipes/redstone/fir_fence_gate": {
     "criteria": {
       "has_planks": "2023-04-21 10:18:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-04-28 20:08:57 -0300"
     },
     "done": true
   },
