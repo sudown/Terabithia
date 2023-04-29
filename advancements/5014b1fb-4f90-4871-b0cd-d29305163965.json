@@ -698,6 +698,7 @@
       "minecraft:creeper": "2023-04-21 10:34:03 -0300",
       "minecraft:zombified_piglin": "2023-04-21 19:05:16 -0300",
       "minecraft:witch": "2023-04-22 14:39:07 -0300",
+      "minecraft:husk": "2023-04-29 08:58:40 -0300",
       "minecraft:cave_spider": "2023-04-21 11:00:36 -0300",
       "minecraft:piglin": "2023-04-21 12:12:49 -0300",
       "minecraft:enderman": "2023-04-21 11:04:19 -0300",
@@ -1849,12 +1850,14 @@
       "cooked_mutton": "2023-04-22 14:06:41 -0300",
       "sweet_berries": "2023-04-21 10:19:38 -0300",
       "cooked_beef": "2023-04-21 12:36:04 -0300",
+      "beetroot_soup": "2023-04-29 08:52:58 -0300",
       "potato": "2023-04-21 14:45:06 -0300",
       "bread": "2023-04-21 18:42:34 -0300",
       "rotten_flesh": "2023-04-21 17:08:08 -0300",
       "salmon": "2023-04-21 11:38:40 -0300",
       "melon_slice": "2023-04-21 20:27:06 -0300",
       "cooked_chicken": "2023-04-21 12:02:08 -0300",
+      "cod": "2023-04-29 09:09:45 -0300",
       "cooked_salmon": "2023-04-21 16:57:15 -0300",
       "carrot": "2023-04-21 15:36:35 -0300"
     },
@@ -3090,7 +3093,8 @@
     "criteria": {
       "textures/entity/cat/white.png": "2023-04-21 16:56:18 -0300",
       "textures/entity/cat/ragdoll.png": "2023-04-28 20:05:11 -0300",
-      "textures/entity/cat/persian.png": "2023-04-28 20:00:58 -0300"
+      "textures/entity/cat/persian.png": "2023-04-28 20:00:58 -0300",
+      "textures/entity/cat/calico.png": "2023-04-29 09:15:19 -0300"
     },
     "done": false
   },
