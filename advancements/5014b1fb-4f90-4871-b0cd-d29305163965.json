@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2023-04-30 13:57:01 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2023-04-21 12:10:57 -0300"
@@ -455,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2023-04-30 18:30:34 -0300"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_wood": {
     "criteria": {
       "has_log": "2023-04-21 10:17:58 -0300"
@@ -555,6 +567,7 @@
       "bayou": "2023-04-21 11:39:13 -0300",
       "marsh": "2023-04-21 12:51:43 -0300",
       "tundra_basin": "2023-04-21 15:46:12 -0300",
+      "jade_cliffs": "2023-04-30 16:04:41 -0300",
       "grove_clearing": "2023-04-21 20:25:03 -0300",
       "flower_meadow": "2023-04-28 20:25:43 -0300",
       "cold_desert": "2023-04-21 15:46:52 -0300",
@@ -564,6 +577,7 @@
       "orchard": "2023-04-21 12:03:54 -0300",
       "snowy_maple_forest": "2023-04-21 15:41:38 -0300",
       "coniferous_forest": "2023-04-21 10:16:02 -0300",
+      "redwood_hills": "2023-04-30 13:48:01 -0300",
       "alps": "2023-04-21 12:46:48 -0300",
       "tall_dead_forest": "2023-04-21 16:48:43 -0300",
       "dryland": "2023-04-21 18:06:18 -0300",
