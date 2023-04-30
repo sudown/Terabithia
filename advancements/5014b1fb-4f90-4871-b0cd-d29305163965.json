@@ -2776,6 +2776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2023-04-30 19:46:39 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2023-04-21 16:34:33 -0300"
@@ -3397,6 +3403,7 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/white.png": "2023-04-21 16:56:18 -0300",
+      "textures/entity/cat/tabby.png": "2023-04-30 19:34:09 -0300",
       "textures/entity/cat/ragdoll.png": "2023-04-28 20:05:11 -0300",
       "textures/entity/cat/persian.png": "2023-04-28 20:00:58 -0300",
       "textures/entity/cat/calico.png": "2023-04-29 09:15:19 -0300"
