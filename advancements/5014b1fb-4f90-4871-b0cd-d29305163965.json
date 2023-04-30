@@ -2051,6 +2051,7 @@
       "baked_potato": "2023-04-29 14:56:01 -0300",
       "porkchop": "2023-04-29 10:09:13 -0300",
       "beetroot_soup": "2023-04-29 08:52:58 -0300",
+      "apple": "2023-04-29 16:56:10 -0300",
       "potato": "2023-04-21 14:45:06 -0300",
       "bread": "2023-04-21 18:42:34 -0300",
       "rotten_flesh": "2023-04-21 17:08:08 -0300",
@@ -3154,6 +3155,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2023-04-21 11:12:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2023-04-29 16:53:23 -0300"
     },
     "done": true
   },
